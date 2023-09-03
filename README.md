@@ -2,7 +2,8 @@
 
 ### Requirement
 
-Python 3.6+
+- Python 3.6+
+- gcc
 
 ### Usage
 Execute the following command to download the testdata:

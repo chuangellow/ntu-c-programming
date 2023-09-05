@@ -3,7 +3,7 @@
 A record of my problem solving on NTU CSIE C Programming course.
 
 ### Problem
-All of the problem can be accessed on the [NTU JudgeGirl System](https://judgegirl.csie.org/)
+All of the problems can be accessed on the [NTU JudgeGirl System](https://judgegirl.csie.org/).
 
 ### Requirement
 

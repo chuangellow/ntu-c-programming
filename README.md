@@ -1,4 +1,4 @@
-# NTU_C_Programming
+# NTU C Programming
 
 ### Requirement
 
